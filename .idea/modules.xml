@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/19-String-Regex.iml" filepath="$PROJECT_DIR$/19-String-Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrawlSong/CrawlSong.iml" filepath="$PROJECT_DIR$/CrawlSong/CrawlSong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Newspaper/Newspaper.iml" filepath="$PROJECT_DIR$/Newspaper/Newspaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidateAccount/ValidateAccount.iml" filepath="$PROJECT_DIR$/ValidateAccount/ValidateAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidateClassName/ValidateClassName.iml" filepath="$PROJECT_DIR$/ValidateClassName/ValidateClassName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidatePhoneNumber/ValidatePhoneNumber.iml" filepath="$PROJECT_DIR$/ValidatePhoneNumber/ValidatePhoneNumber.iml" />
+    </modules>
+  </component>
+</project>
